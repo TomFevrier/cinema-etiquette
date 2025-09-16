@@ -24,7 +24,7 @@
 		<li>
 			<h2>
 				<span class="number-bullet" style="--n: 2;">2</span>
-				Phones away. Seriously.
+				Phone away. Seriously.
 			</h2>
 			<p>
 				No texts, no TikTok scrolling: turn it off or switch to airplane mode. If you must glance at
